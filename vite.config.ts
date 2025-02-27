@@ -10,5 +10,5 @@ export default defineConfig({
         find: "@/", replacement: `${__dirname}/src/`
       }
     ]
-  }
+  },
 })
